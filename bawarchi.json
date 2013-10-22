@@ -1,0 +1,21 @@
+{
+   "type": "restaurant",
+   "name": "Bawarchi",
+   "cuisine": [
+       "South Indian",
+       "North Indian",
+       "Chinese",
+       "Mughalai"
+   ],
+   "specialities": [
+       "biriyani","naan"
+   ],
+   "numbers": [
+       "9999992",
+       "044-23422342"
+   ],
+   "email": [
+       "contact@bawarchi.com"
+   ],
+   "address": "Some random address"
+}

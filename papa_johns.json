@@ -1,0 +1,19 @@
+{
+   "type": "restaurant",
+   "name": "Papa Johns",
+   "cuisine": [
+       "Continental",
+       "Pizza",
+   ],
+   "specialities": [
+       "garlic sauce"
+   ],
+   "numbers": [
+       "9999992",
+       "044-23422342"
+   ],
+   "email": [
+       "contact@bawarchi.com"
+   ],
+   "address": "Some random address"
+}
